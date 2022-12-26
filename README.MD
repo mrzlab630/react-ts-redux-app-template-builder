@@ -1,0 +1,1 @@
+# A bash script for quick deployment of the React, TypeScript, and Redux application template
